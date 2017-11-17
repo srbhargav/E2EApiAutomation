@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2914" started-at="2017-11-17T21:00:43Z" finished-at="2017-11-17T21:00:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2914" started-at="2017-11-17T21:00:43Z" finished-at="2017-11-17T21:00:46Z">
+      <class name="org.api.automation.TC_001_End2EndApiAutomation">
+        <test-method status="PASS" signature="tc_001_test1()[pri:0, instance:org.api.automation.TC_001_End2EndApiAutomation@5e025e70]" name="tc_001_test1" duration-ms="2890" started-at="2017-11-17T16:00:43Z" finished-at="2017-11-17T16:00:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_test1 -->
+      </class> <!-- org.api.automation.TC_001_End2EndApiAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
